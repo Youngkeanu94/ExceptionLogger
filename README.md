@@ -1,0 +1,2 @@
+
+This C# program, "ExceptionLogger", demonstrates exception handling and logging. It covers scenarios like divide-by-zero, file not found, and array errors. It redirects console error messages to a log file, effectively capturing exceptions encountered during execution. The program includes methods that deliberately trigger exceptions, which are caught and logged. It then displays the contents of the log file. This code is a practical example of managing exceptions and maintaining a log for troubleshooting and record-keeping.
